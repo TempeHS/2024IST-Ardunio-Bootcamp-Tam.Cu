@@ -18,7 +18,8 @@
 String myString = "Hello world";
 int  myint = 3;
 bool  mybool = false;
-float myFloat =
+float myFloat = 3.14; 
+long myLong = 3.1415926589;
 void setup() {
 Serial.begin(9600);
 Serial.println("Serial Monitor is configures to 9600");
